@@ -1,4 +1,3 @@
-```markdown
 # Object-Oriented Programming Explained
 
 Object-Oriented Programming (OOP) is a programming paradigm, or a way of thinking about and structuring code, that's become incredibly popular and influential.  Instead of focusing on procedures or functions, OOP centers around the concept of "objects."  These objects contain both data (attributes) and the functions (methods) that operate on that data.  Think of it like real-world objects: a car has attributes like color, model, and speed, and methods like accelerate, brake, and turn.
@@ -51,4 +50,3 @@ In this example, `Dog` is a class, `my_dog` is an object, `name` and `breed` are
 **Conclusion:**
 
 Object-Oriented Programming is a powerful and versatile paradigm that offers many benefits for software development. While it has a learning curve, mastering OOP principles significantly improves your ability to write clean, efficient, and maintainable code.  Understanding these core concepts is crucial for any aspiring programmer.
-```
