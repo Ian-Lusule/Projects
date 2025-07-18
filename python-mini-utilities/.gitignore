@@ -1,0 +1,37 @@
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+*.egg-info/
+.env
+
+# Python specific
+*.log
+*.out
+*.txt # Add if you have text files that are not part of the project
+
+# IDE files
+.idea/
+.vscode/
+*.suo
+*.user
+*.csproj.user
+
+# Generated files
+*.md # Add if you want to ignore markdown files
+
+# Local configuration files
+.env
+.DS_Store
+```
