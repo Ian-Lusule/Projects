@@ -1,4 +1,3 @@
-```markdown
 # Git and GitHub Workflows: A Beginner's Guide
 
 Git and GitHub are essential tools for any programmer, regardless of experience level.  This guide will walk you through the basics of Git, a distributed version control system, and how it integrates with GitHub, a web-based hosting service for Git repositories.
@@ -55,4 +54,4 @@ This is just a brief introduction.  Git and GitHub offer many more advanced feat
 
 
 This guide provides a foundation for understanding Git and GitHub.  With practice, you'll become proficient in using these powerful tools to manage your code and collaborate effectively with others.
-```
+
