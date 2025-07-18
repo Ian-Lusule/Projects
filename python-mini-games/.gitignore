@@ -1,0 +1,25 @@
+# Compiled Python files
+__pycache__/
+
+# Temporary files
+*.tmp
+*.log
+
+# Test files
+*.test
+*.spec
+*.egg-info
+
+# Virtual environment
+.venv
+venv
+env
+.virtualenv
+
+# IDE specific files
+.idea/
+.vscode/
+*.suo
+*.user
+*.csproj
+*.sln
