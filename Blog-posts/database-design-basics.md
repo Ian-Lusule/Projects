@@ -1,4 +1,3 @@
-```markdown
 # Database Design Basics
 
 Designing a robust and efficient database is crucial for any application that needs to store and retrieve data.  A well-designed database ensures data integrity, scalability, and performance. This post will cover the fundamental concepts of database design, helping you build better databases.
@@ -48,4 +47,4 @@ This design shows a one-to-many relationship between `Customers` and `Orders`, a
 ## Conclusion
 
 Database design is a crucial aspect of software development.  Understanding the fundamental concepts discussed in this post will help you create efficient, scalable, and maintainable databases.  Remember to carefully plan your database schema, considering data integrity and performance from the outset.  Further exploration into normalization techniques and database management systems (DBMS) will enhance your database design skills.
-```
+
