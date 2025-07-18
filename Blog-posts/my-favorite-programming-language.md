@@ -1,7 +1,7 @@
 ---
 title: My Favorite Programming Language: Python - Why It's My Go-To
 date: 2024-10-27
-author: [Your Name]
+author: [Ian Lusule]
 tags: [python, programming, favorite language, coding]
 ---
 
