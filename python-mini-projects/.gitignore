@@ -1,0 +1,53 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.dll
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+.pytest_cache/
+.mypy_cache/
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Sphinx documentation
+docs/_build/
+
+# virtualenv
+.venv/
+env/
+venv/
+
+# IDE files
+.idea/
+.vscode/
+
+# Package files
+*.egg-info/
+.eggs/
+
+# Test files
+*.test*
+test*
+*test*
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
