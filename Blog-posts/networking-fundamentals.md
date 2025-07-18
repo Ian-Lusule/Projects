@@ -1,5 +1,7 @@
-Title: Networking Fundamentals
+**Title: Networking Fundamentals**
+
 Date: 2024-10-27
+
 Tags: networking, TCP/IP, OSI model, internet
 
 Networking is the backbone of the modern digital world. Understanding networking fundamentals is crucial for programmers and tech enthusiasts. This post provides a high-level overview of key concepts.
