@@ -1,4 +1,4 @@
-**Title: Networking Fundamentals**
+# Title: Networking Fundamentals
 
 Date: 2024-10-27
 
