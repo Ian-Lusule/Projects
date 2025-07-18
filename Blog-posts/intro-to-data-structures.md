@@ -1,4 +1,3 @@
-```markdown
 # Intro to Data Structures
 
 Data structures are the fundamental building blocks of any program.  They're how we organize and store data in a way that's efficient for accessing and manipulating that data. Choosing the right data structure can significantly impact the performance and scalability of your application.  This post will introduce some of the most common data structures and their use cases.
@@ -37,4 +36,4 @@ The choice of data structure depends on the specific application and the operati
 
 
 This introduction provides a high-level overview of common data structures.  Further exploration of each data structure will reveal their complexities and nuances, enabling you to make informed decisions when designing your programs.  In subsequent posts, we'll delve deeper into specific data structures and their implementations.
-```
+
